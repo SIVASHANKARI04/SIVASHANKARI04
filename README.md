@@ -13,7 +13,7 @@ Passionate about solving problems with data, models, and meaningful insights.
 
 📌 Interests: Machine Learning, Time-Series Forecasting, Deep Learning, Real-Time Deployment
 
-🎯 Current Role: Data Science Intern – Aspire Systems
+🎯 Current Role: Intern trainee – Aspire Systems
 
 🔗 LinkedIn: linkedin.com/in/sivashankarishanmugam-3226a4299
 
