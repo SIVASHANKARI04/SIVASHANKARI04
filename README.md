@@ -15,7 +15,7 @@ Passionate about solving problems with data, models, and meaningful insights.
 
 🎯 Current Role: Intern trainee – Aspire Systems
 
-🔗 LinkedIn: linkedin.com/in/sivashankarishanmugam-3226a4299
+🔗 LinkedIn: https://www.linkedin.com/in/sivashankari-s-3226a4299/
 
 
 🧠 Motivation Thought:
