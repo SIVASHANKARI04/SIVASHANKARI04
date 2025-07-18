@@ -3,7 +3,7 @@
 👩‍💻 Sivashankari S
 
 
-Aspiring Data Scientist | ML Enthusiast | Intern at Aspire Systems
+Aspiring Data Scientist |  Data Analyst  | ML Enthusiast | Intern at Aspire Systems
 
 
 Currently exploring real-world projects in the Data Science domain through a hands-on internship at Aspire. 
