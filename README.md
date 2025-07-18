@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-###👩‍💻 Sivashankari S###
+👩‍💻 Sivashankari S
 
 
 Aspiring Data Scientist | ML Enthusiast | Intern at Aspire Systems
@@ -18,12 +18,12 @@ Passionate about solving problems with data, models, and meaningful insights.
 🔗 LinkedIn: linkedin.com/in/sivashankarishanmugam-3226a4299
 
 
-##🧠 Motivation Thought:##
+🧠 Motivation Thought:
 
 
 "Start where you are. Use what you have. Do what you can." – Arthur Ashe
 
-##😂 Fun Fact:##
+😂 Fun Fact:
 
 
 I can debug my ML model errors faster than I can decide what to eat for lunch! 😄
